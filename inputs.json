@@ -1,0 +1,93 @@
+{
+	"dados":[
+		{
+		"nome": "geral",
+		"link": -1,
+		"data": -1,
+		"palavras": [
+			"selo",
+			"selinho",
+			"promoção",
+			"selinhos de desconto",
+			"cartela",
+			"panfleto",
+			"meta",
+			"missão",
+			"missões",
+			"falta de estoque",
+			"campanha",
+			"colecionáveis",
+			"voucher",
+			"cupom",
+			"parceiro",
+			"vale-troca",
+			"vale troca",
+			"propaganda enganosa",
+			"app",
+			"aplicativo",
+			"cadastro",
+			"registro"
+		]
+		},
+		{
+		"nome": "GPA",
+		"link": [
+			["stix",20],
+			["pao-de-acucar",20],
+			["pao-de-acucar-delivery",20],
+			["pao-de-acucar-mais",20],
+			["extra-loja-online",20],
+			["extra-lojas-fisicas-e-delivery",20],
+			["extra-com-br-marketplace",20],
+			["clube-extra",20],
+			["extra-delivery",20]	
+		],
+		"data": "2020/09/01",
+		"palavras": [
+			"stix",
+			"zwilling",
+			"talheres",
+			"jamie oliver"
+		]
+		},
+		{
+		"nome": "Muffato",
+		"link": [
+			["super-muffato-loja-online",20],
+			["super-muffato-loja-fisica",20],
+			["super-muffato-delivery",20]
+		],
+		"data": "2020/09/01",
+		"palavras": [
+			"spiegelau",
+			"pagnossin",
+			"cerâmicas",
+			"ceramicas",
+			"copos",
+			"taças",
+			"tacas"
+		]
+		},
+		{
+		"nome": "Carrefour",
+		"link": [
+			["carrefour-loja-online",20],
+			["carrefour-loja-fisica",20],
+			["meu-carrefour",20]
+		],
+		"data": "2020/10/01",
+		"palavras": [
+			"meu carrefour",
+			"minhas recompensas",
+			"moeda",
+			"royal vkb",
+			"royalvkb",
+			"rvkb",
+			"faca"
+		]
+		}
+	]
+}
+	
+
+				
